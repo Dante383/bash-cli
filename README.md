@@ -1,10 +1,10 @@
 # bash-cli
 Python script for reading bash.org.pl quotes. 
-Usage: 
- ./bash-cli.py quote_id  
- To view a quote from the ID
-    Or:
- ./bash-cli.py -r 
+Usage: <br>
+ ./bash-cli.py quote_id  <br>
+ To view a quote from the ID<br>
+    Or:<br>
+ ./bash-cli.py -r <br>
  To randomly select a quote
  
 
