@@ -1,7 +1,7 @@
 # bash-cli
 Python script for reading bash.org.pl quotes. 
 
-##Usage
+## Usage
 
  `./bash-cli.py quote_id` 
  
@@ -12,7 +12,7 @@ Python script for reading bash.org.pl quotes.
  
  To randomly select a quote
  
- ##Requirements 
+ ## Requirements 
  
  BeautifulSoup4
 
