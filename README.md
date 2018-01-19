@@ -1,14 +1,21 @@
 # bash-cli
 Python script for reading bash.org.pl quotes. 
-Usage: <br>
- ./bash-cli.py quote_id  <br>
- To view a quote from the ID<br>
-    Or:<br>
- ./bash-cli.py -r <br>
+
+##Usage
+
+ `./bash-cli.py quote_id` 
+ 
+ To view a specified quote
+ 
+ 
+ `./bash-cli.py -r`
+ 
  To randomly select a quote
  
+ ##Requirements 
+ 
+ BeautifulSoup4
 
-Made on linux, require bs4 package to work. Can not work on windows, but not checked
 
 ![This is how it looks](http://i.imgur.com/o2HUdBf.png)
 ![This is how it looks](http://i.imgur.com/CLSeCfl.png)
